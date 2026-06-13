@@ -217,6 +217,8 @@ kubectl get ingress -n game-2048
 ```
 
 Once the address appears, open it in your browser — the 2048 game will be live! 🎮
+<img width="596" height="305" alt="image" src="https://github.com/user-attachments/assets/e17e9bad-4f83-47e9-8d04-885ac875720b" />
+
 
 ---
 
